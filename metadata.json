@@ -1,0 +1,8 @@
+{
+  "name": "Last-Minute Life Saver",
+  "description": "An AI-powered productivity assistant that turns natural language descriptions of your day into prioritized, time-blocked schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
