@@ -3,7 +3,7 @@
 > Turn chaos into a masterplan — AI-powered personal productivity cockpit built with Gemini.
 
 ## 🚀 Live Demo
-[Link to deployed app] <!-- We'll fill this after Publish -->
+https://ai.studio/apps/eaf4a470-10be-47ab-b394-ac3dceb0fee3 <!-- We'll fill this after Publish -->
 
 ## 📌 Problem Statement
 Students and professionals constantly face overwhelming days with competing deadlines, 
